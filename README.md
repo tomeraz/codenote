@@ -2,7 +2,7 @@
 A system that enables to produce notes from inside varoius coding tools.
 
 Currently there's a plugin for vscode and a plugin for intelliJ.<br>
-Using these plugins it's possible to store tasks on Trello any any other information to Slack.
+Using these plugins it's possible to store tasks on Trello and any other information to Slack.
 
 ##Architecture##
 Microservice architecture.
