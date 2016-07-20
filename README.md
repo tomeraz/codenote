@@ -17,6 +17,6 @@ More plugins for other text editors can be coded.
 ##Repositories##
 * https://github.com/tomeraz/codenote-vscode-plugin
 * https://github.com/tomeraz/codenote-idea-plugin
-* https://github.com/tomeraz/codenote-android
 * https://github.com/tomeraz/codenote-slack-microservice
 * https://github.com/tomeraz/codenote-trello-microservice
+* https://github.com/tomeraz/codenote-android
