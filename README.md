@@ -7,12 +7,12 @@ Using these plugins it's possible to store tasks on Trello and any other informa
 ##Architecture##
 Microservice architecture.
 
+##Presentation##
+https://docs.google.com/presentation/d/1VrZb7Z-Is0KZpIhM7B2Rpc5vHhfooa289RdwtmTUf30/
+
 ##Scaling##
 It's possible to scale the system to more external systems such as Evernote, Google Notes, Microsoft Notes etc., using their web api's.<br>
 More plugins for other text editors can be coded.
-
-##Presentation##
-https://docs.google.com/presentation/d/1VrZb7Z-Is0KZpIhM7B2Rpc5vHhfooa289RdwtmTUf30/
 
 ##Repositories##
 * https://github.com/tomeraz/codenote-vscode-plugin
